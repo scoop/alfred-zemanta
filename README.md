@@ -8,7 +8,7 @@ Dependencies
 
 As awesome as `bundler` is for Ruby developers, writing a portable Alfred
 workflow shouldn't have these dependencies. Thanks to Duane Johnson, we have
-[alfred2-ruby-framework][https://github.com/canadaduane/alfred2-ruby-framework]
+[alfred2-ruby-framework](https://github.com/canadaduane/alfred2-ruby-framework)
 giving us an easy way to bundle Rubygems.
 
 To install the dependencies for alfred-zemanta, run `install_gem.sh` for the
